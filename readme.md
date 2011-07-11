@@ -45,7 +45,7 @@ A standard URL might look like this (taken from _URI Scheme_):
        |            path                       interpretable as filename
        |   ___________|____________                              |
       / \ /                        \                             |
-
+      urn:example:animal:ferret:nose               interpretable as extension
 
 The primary changes for this specification from this example are:
 
