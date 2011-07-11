@@ -34,19 +34,18 @@ Related W3C Pages
 
 A standard URL might look like this (taken from _URI Scheme_):
 
-``
-  foo://username:password@example.com:8042/over/there/index.dtb?type=animal&name=narwhal#nose
-  \_/   \_______________/ \_________/ \__/            \___/ \_/ \______________________/ \__/
-   |           |               |       |                |    |            |                |
-   |       userinfo         hostname  port              |    |          query          fragment
-   |    \________________________________/\_____________|____|/
-scheme                  |                          |    |    |
-   |                authority                    path   |    |
-   |                                                    |    |
-   |            path                       interpretable as filename
-   |   ___________|____________                              |
-  / \ /                        \                             |
-``
+      foo://username:password@example.com:8042/over/there/index.dtb?type=animal&name=narwhal#nose
+      \_/   \_______________/ \_________/ \__/            \___/ \_/ \______________________/ \__/
+       |           |               |       |                |    |            |                |
+       |       userinfo         hostname  port              |    |          query          fragment
+       |    \________________________________/\_____________|____|/
+    scheme                  |                          |    |    |
+       |                authority                    path   |    |
+       |                                                    |    |
+       |            path                       interpretable as filename
+       |   ___________|____________                              |
+      / \ /                        \                             |
+
 
 The primary changes for this specification from this example are:
 
