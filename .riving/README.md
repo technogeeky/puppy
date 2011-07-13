@@ -1,10 +1,9 @@
-## RIVE
-### verb
+### [RIVE][] [::][] [Verb][]
+
 >   + rives: _3rd person_, _singular_, _present_
 >   + riving: _present_, _participle_
 >   + riven: _past_, _participle_
 >   + rived: _past_, _tense_
-> > - _from_ [rive](http://www.google.com/dictionary?langpair=en|en&q=rive&hl=en&aq=f)
 
 #### 1. Split or tear apart violently.
 
@@ -42,7 +41,9 @@ So that you may git **my** git, its guts, its gits, and the gits I grokked into 
 
 
 
-
+[RIVE]:     http://www.d-rive.org/rive (RIVE)
+[::]:       http://www.haskell.org/tutorial/goodies.html ":: denotes 'is of type'"
+[Verb]:     http://en.wikipedia.org/wiki/Verb (verb)
 [rive]:     http://www.google.com/dictionary?langpair=en|en&q=rive&hl=en&aq=f (rive)
 [multiset]: http://en.wikipedia.org/wiki/Multiset (multiset)
 [acronym]:  http://www.google.com/dictionary?langpair=en|en&q=acronym&hl=en&aq=f (acronym)
