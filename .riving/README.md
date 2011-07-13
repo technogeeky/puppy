@@ -12,7 +12,7 @@
 * he was _riven_ with guilt
 * the software was easier to understand, once _riven_.
 
-#### 2. RIVE :: [multiple](http://en.wikipedia.org/wiki/Multiset) [acronym](http://www.google.com/dictionary?langpair=en|en&q=acronym&hl=en&aq=f)
+#### 2. RIVE :: [multiset](http://en.wikipedia.org/wiki/Multiset) [acronym](http://www.google.com/dictionary?langpair=en|en&q=acronym&hl=en&aq=f)
 
 * [[www.d-rive.org](https://www.d-rive.org)]: [Really Innovative Visceral Environment](https://www.d-rive.org)
 
@@ -41,3 +41,11 @@ Given the generous licenses granted by the geniuses got these gits going:
 So that you may git **my** git, its guts, its gits, and the gits I grokked into gibs in these gits. Good news indeed!
 
 
+
+
+[rive]:     http://www.google.com/dictionary?langpair=en|en&q=rive&hl=en&aq=f (rive)
+[multiset]: http://en.wikipedia.org/wiki/Multiset (multiset)
+[acronym]:  http://www.google.com/dictionary?langpair=en|en&q=acronym&hl=en&aq=f (acronym)
+
+[d-rive]: https://www.d-rive.org/ (d-rive)
+[GitHub]: http://www.github.com/ (github)
