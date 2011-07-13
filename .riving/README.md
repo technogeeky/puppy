@@ -23,7 +23,7 @@ This project is being _rived_.
 ## Good News, Everyone!
 
 The above submodules are _my_ gits of the guts of the gits which I grabbed,
-to get going on **this** git, whos [gibs](http://en.wikipedia.org/wiki/Gib_(video_gaming)) I greedily [grokked](http://en.wikipedia.org/wiki/Grok) from [github](https://www.github.com).
+to get going on **this** git, whos [gibs](http://en.wikipedia.org/wiki/Gib_\(video_gaming\)) I greedily [grokked](http://en.wikipedia.org/wiki/Grok) from [github](https://www.github.com).
 
 ### Licensing
 
