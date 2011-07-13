@@ -1,0 +1,15 @@
+[submodule ".riving/ripl"]
+	path = .riving/ripl
+	url = https://github.com/cldwalker/ripl
+[submodule ".riving/irbfiles"]
+	path = .riving/irbfiles
+	url = https://github.com/cldwalker/irbfiles
+[submodule ".riving/boson"]
+	path = .riving/boson
+	url = https://github.com/cldwalker/boson
+[submodule ".riving/nirvana"]
+	path = .riving/nirvana
+	url = https://github.com/cldwalker/nirvana
+[submodule ".riving/d3"]
+	path = .riving/d3
+	url = https://github.com/mbostock/d3
