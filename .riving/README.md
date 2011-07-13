@@ -1,10 +1,10 @@
 ### RIVE
 
-+ rives: _3rd person_, _singular_, _present_
-+ riving: _present_, _participle_
-+ riven: _past_, _participle_
-+ rived: _past_, _tense_
-- _from_ [rive](http://www.google.com/dictionary?langpair=en|en&q=rive&hl=en&aq=f)
+    + rives: _3rd person_, _singular_, _present_
+    + riving: _present_, _participle_
+    + riven: _past_, _participle_
+    + rived: _past_, _tense_
+    - _from_ [rive](http://www.google.com/dictionary?langpair=en|en&q=rive&hl=en&aq=f)
 
 #### 1. Split or tear apart violently.
 
@@ -14,8 +14,7 @@
 
 #### 2. RIVE :: [multiple](http://en.wikipedia.org/wiki/Multiset) [acronym](http://www.google.com/dictionary?langpair=en|en&q=acronym&hl=en&aq=f)
 
-* _from_ [www.d-rive.org](https://www.d-rive.org):
-+ Really Innovative Visceral Environment[www.d-rive.org](https://www.d-rive.org)
+* [[www.d-rive.org](https://www.d-rive.org)]: [Really Innovative Visceral Environment](https://www.d-rive.org)
 
 
 This project is being _rived_.
