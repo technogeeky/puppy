@@ -1,4 +1,4 @@
-dictionary
+:: dictionary
 ==========================================================================================================================
 [RIVE][] [::][] [Verb][]
 ------------------------
@@ -23,20 +23,17 @@ dictionary
  * [Radically Innovative Visual Editor](https://www.d-rive.org)
  * ...
 
-description
+:: description
 ==========================================================================================================================
 
-This project is being _rived_.
-------------------------------
+## [Good News, Everyone!][] This project is a _rive_!
 
-## Good News, Everyone!
-
-The above submodules are _my_ gits of the guts of the gits which I grabbed,   
-to get going on **this** git, whos [gibs][] I greedily [grokked][] from [GitHub][].   
+The above submodules are _my_ [git][]s of the [guts][] of the [git][]s which I grabbed,   
+to get going on **this** [git][], whos [gibs][] I greedily [grokked][] from [GitHub][].   
 
 ### Licensing
 
-Given the generous [licenses][] granted by the geniuses got these gits going:
+Given the generous [licenses][] granted by the geniuses got these [git][]s going:
 
 + [MIT][] ...
 + [GPLv2][] ...
@@ -47,15 +44,18 @@ Given the generous [licenses][] granted by the geniuses got these gits going:
 
 + [MIT][] ...
 
-So that you may git **my** git, its guts, its gits, and the gits I grokked into gibs in these gits. Good news indeed!
+So that you may [git][] **my** [git][], its [guts][], its [git][]s, and the [git][]s I [grokked][] into [gibs][] in these [gits][]s. Good news indeed!
 
 
+[Good News, Everyone!]:     http://www.youtube.com/watch?v=1D1cap6yETA "Good News, Anyone!"
 
 [RIVE]:     http://www.d-rive.org/rive (RIVE)
 [::]:       http://www.haskell.org/tutorial/goodies.html "is (::) of type"
 [Verb]:     http://en.wikipedia.org/wiki/Verb (Verb)
 [Web Site]: http://en.wikipedia.org/wiki/Website (web site)
 [gibs]:     http://en.wikipedia.org/wiki/Gib_\(video_gaming\) (gibs)
+
+[guts]:     http://www.merriam-webster.com/dictionary/guts (guts)
 [rend]:     http://www.merriam-webster.com/dictionary/rend (rend)
 [fracture]: http://www.merriam-webster.com/dictionary/fracture (fracture)
 [grokked]:  http://www.merriam-webster.com/dictionary/grok (grok)
