@@ -1,5 +1,4 @@
-> > > > > > > > > > > > > > > > > > > > > > > ###### :: dictionary
-
+                                                                                                             :: dictionary
 --------------------------------------------------------------------------------------------------------------------------
 ### [RIVE][] [::][] [Verb][]
 > > > > > ##### rive :: _transitive_
@@ -20,8 +19,7 @@
 1. RIVE :: [multiset][] [acronym][]
    * [Really Innovative Visceral Environment](https://www.d-rive.org)
    * [Radically Innovative Visual Editor](https://www.d-rive.org)
-   * ... and so on ...
-
+   * ... and so on ...   
 
                                                                                                             :: description
 --------------------------------------------------------------------------------------------------------------------------
