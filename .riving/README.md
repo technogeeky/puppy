@@ -1,11 +1,6 @@
                                                                                                              :: DICTIONARY 
 --------------------------------------------------------------------------------------------------------------------------
 ### [RIVE][] [::][] [Verb][]
-> > > > > ##### rive :: _transitive_
-> > > > > ##### rives :: _3rd person_, _singular_, _present_
-> > > > > ##### riving :: _present_, _participle_
-> > > > > ##### riven :: _past_, _participle_
-> > > > > ##### rived :: _past_, _tense_
 
 1. to wrench open or tear apart -- [rend][]
    * he was _riven_ with guilt.
@@ -32,7 +27,8 @@ This project is a _rive_!
 The above submodules are _my_ [git][]s of the [guts][] of the [gits][] which I grabbed,   
 to get going on **this** [git][], whos [gibs][] I greedily [grokked][] from [GitHub][].   
 
-### Licensing
+                                                                                                              :: LICENSING
+--------------------------------------------------------------------------------------------------------------------------
 
 Given the generous [licenses][] granted by the geniuses got these [git][]s going:
 
@@ -45,7 +41,8 @@ Given the generous [licenses][] granted by the geniuses got these [git][]s going
 
 + [MIT][] ...
 
-So that you may [git][] **my** [git][], its [guts][], its [gits][], and the [gits][] I [grokked][] into [gibs][] in these [gits][]. Good news indeed!
+So that you may [git][] **my** [git][], its [guts][], its [gits][], and the [gits][] I [grokked][] into [gibs][] in
+these [gits][]. Good news indeed!
 
 
 [Good News, Everyone!]:     http://www.youtube.com/watch?v=1D1cap6yETA "Good News, Anyone!"
