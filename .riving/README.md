@@ -1,7 +1,7 @@
 :: dictionary
-==========================================================================================================================
-[RIVE][] [::][] [Verb][]
-------------------------
+---------------------------------------------------------------------------------------------------------------------------
+### [RIVE][] [::][] [Verb][]
+
 ##### rive :: _transitive_
 ##### rives :: _3rd person_, _singular_, _present_
 ##### riving :: _present_, _participle_
@@ -16,17 +16,19 @@
    * after _riving_ it, this software was easier to understand.
 
 
-[RIVE][] [::][] [Web Site][]
-----------------------------
+### [RIVE][] [::][] [Web Site][]
+
 1. RIVE :: [multiset][] [acronym][]
  * [Really Innovative Visceral Environment](https://www.d-rive.org)
  * [Radically Innovative Visual Editor](https://www.d-rive.org)
  * ...
 
 :: description
-==========================================================================================================================
+--------------------------------------------------------------------------------------------------------------------------
 
-## [Good News, Everyone!][] This project is a _rive_!
+### [Good News, Everyone!][] 
+
+This project is a _rive_!
 
 The above submodules are _my_ [git][]s of the [guts][] of the [git][]s which I grabbed,   
 to get going on **this** [git][], whos [gibs][] I greedily [grokked][] from [GitHub][].   
@@ -44,7 +46,7 @@ Given the generous [licenses][] granted by the geniuses got these [git][]s going
 
 + [MIT][] ...
 
-So that you may [git][] **my** [git][], its [guts][], its [git][]s, and the [git][]s I [grokked][] into [gibs][] in these [gits][]s. Good news indeed!
+So that you may [git][] **my** [git][], its [guts][], its [gits][], and the [gits][] I [grokked][] into [gibs][] in these [gits][]. Good news indeed!
 
 
 [Good News, Everyone!]:     http://www.youtube.com/watch?v=1D1cap6yETA "Good News, Anyone!"
@@ -68,6 +70,8 @@ So that you may [git][] **my** [git][], its [guts][], its [git][]s, and the [git
 [d-rive]:           https://www.d-rive.org/ (d-rive)
 [GitHub]:           http://www.github.com/ (github)
 
+[git]:         http://book.git-scm.com/ (git)
+[gits]:        https://github.com/technogeeky (gits)
 [licenses]:    http://en.wikipedia.org/wiki/List_of_software_licenses "Free Software Licenses"
 [MIT]:         http://en.wikipedia.org/wiki/MIT_License "The MIT License"
 [GPLv2]:       http://en.wikipedia.org/wiki/GNU_General_Public_License "The GPL License v2"
