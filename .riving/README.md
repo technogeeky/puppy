@@ -1,5 +1,13 @@
+dictionary
+==========================================================================================================================
 [RIVE][] [::][] [Verb][]
-========================
+------------------------
+##### rive :: _transitive_
+##### rives :: _3rd person_, _singular_, _present_
+##### riving :: _present_, _participle_
+##### riven :: _past_, _participle_
+##### rived :: _past_, _tense_
+
 1. to wrench open or tear apart -- [rend][]
    * he was _riven_ with guilt.
 2. to divide into pieces -- [fracture][]
@@ -7,22 +15,19 @@
 3. to tear asunder until [grokked][] -- (**proposed**)
    * after _riving_ it, this software was easier to understand.
 
-###### rive :: _transitive_
-###### rives :: _3rd person_, _singular_, _present_
-###### riving :: _present_, _participle_
-###### riven :: _past_, _participle_
-###### rived :: _past_, _tense_
 
 [RIVE][] [::][] [Web Site][]
-============================
+----------------------------
 1. RIVE :: [multiset][] [acronym][]
- * RIVE: [Really Innovative Visceral Environment](https://www.d-rive.org)
- * RIVE: [Radically Innovative Visual Editor](https://www.d-rive.org)
- * RIVE: ...
+ * [Really Innovative Visceral Environment](https://www.d-rive.org)
+ * [Radically Innovative Visual Editor](https://www.d-rive.org)
+ * ...
 
+description
+==========================================================================================================================
 
 This project is being _rived_.
-==============================
+------------------------------
 
 ## Good News, Everyone!
 
@@ -33,14 +38,14 @@ to get going on **this** git, whos [gibs][] I greedily [grokked][] from [GitHub]
 
 Given the generous [licenses][] granted by the geniuses got these gits going:
 
-+ MIT ...
-+ GNU ...
++ [MIT][] ...
++ [GPLv2][] ...
 + GPL ...
 + BEER ...
 
 **This** git generously given under a generally generous license:
 
-+ MIT ...
++ [MIT][] ...
 
 So that you may git **my** git, its guts, its gits, and the gits I grokked into gibs in these gits. Good news indeed!
 
