@@ -48,11 +48,17 @@ words are ignored in Markdown Extra.
 
 > > > > > > > seven
 
->  >       > > > > > > eight
+> > > > > > > > > eight
 
 > > > > > > > > > nine
 
 > > > > > > > > > > ten
+
+This can be used to create some interesting headers:
+
+> > > > > > > > > > > > > > > 
+>                             PUPPY
+> > > > > > > > > > > > > > > 
 
 > but they can't have content    > with multiple blockquotes
 
