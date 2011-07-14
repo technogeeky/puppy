@@ -56,11 +56,9 @@ words are ignored in Markdown Extra.
 
 This can be used to create some interesting headers:
 
-> > > > > > > > > > > > > > >
-
->                             PUPPY
-
-> > > > > > > > > > > > > > >
+> > > > > > > > > > > > > > >   
+                                                                                                                   SECTION
+> > > > > > > > > > > > > > >  
 
 
 
