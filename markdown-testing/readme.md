@@ -63,36 +63,54 @@ This can be used to create some interesting headers:
 Lorem ipsum.
 
 > > ----------------------------------------------------------------------------------------------------------------------
-                                                                                                                  SECTION2
-   
+                                                                                                                 SECTION2
+> > ----------------------------------------------------------------------------------------------------------------------
+ 
+
 Lorem ipsum.
 
 > > > --------------------------------------------------------------------------------------------------------------------
-                                                                                                                  SECTION3
-   
+                                                                                                                 SECTION3
+> > > --------------------------------------------------------------------------------------------------------------------
+
 Lorem ipsum.
 
 > > > > > ----------------------------------------------------------------------------------------------------------------
-                                                                                                                 SECTION4
+                                                                                                                 SECTION5
+> > > > > ----------------------------------------------------------------------------------------------------------------
+
    
 Lorem ipsum.
 
 
-* lists start with *, +, or -
+* lists start with `*`, `+`, or `-`
 *  and they can have one
 *   two
+
+[link tests]()
+
+
 *    three
 *     four
 *      five
 *       six extra spaces
-* they can also have
-* hanging indents   
-like this one
 
+[link tests]() 
+[link tests]
 HTML support:
 
-   <p> ``<p>`` is not supported
+   <p> `<p>` is supported </p>
+   <div> `<div>` is supported </div>
+   <span> `<span>` is supported </span>
 
+
+Block-level elements (`<div>`, `<table>`, `<pre>`, `<p>`, ...) must be surrounded by blank likes,
+and must use less than 4 spaces to avoid becoming code blocks.
+
+<table>
+   <tr><td>first row, first col</td></tr>
+   <tr><td>second row, second col</td></tr>
+</table>
 
 * Bullet lists are easy too
 - Another one
@@ -127,20 +145,16 @@ for things like poems
 
 + Rules with no content are just omitted.
 
-****
-
-****
-
-****
-
 * * * *
 Four stars: `* * * *`
 
-****
+----
+Four dashes: `----`
+
 
 --------------------------
 
-You can [link to other locations]{#top}
+You can [link to other locations](http://)
 
 <div class="custom-class" markdown="1">
 This is a div wrapping some Markdown plus.  Without the DIV attribute, it ignores the 
