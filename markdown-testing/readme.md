@@ -1,3 +1,13 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <title>Example Source</title>
+</head>
+<body>
+<pre>GitHub Flavored Markdown
+
 &lt;pre&gt;
 _     /)---(\          /~~~\
 \\   (/ . . \)        /  .. \
@@ -21,4 +31,6 @@ _     /)---(\          /~~~\
     &lt;td&gt;2&lt;/td&gt;&lt;td&gt;Albert Einstein&lt;/td&gt;&lt;td&gt;Nearly as awesome&lt;/td&gt;
   &lt;/tr&gt;
 &lt;/table&gt;
+</body>
+</html>
 
