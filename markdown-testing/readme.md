@@ -1,10 +1,10 @@
-```
-      /)---(\ 
- _   (/ . . \)
- \\__)-\(*)/  
- \_       (_                    
- (___/-(____)                  
-```
+````
+          /)---(\ 
+     _   (/ . . \)
+     \\__)-\(*)/  
+     \_       (_                    
+    (___/-(____)                  
+````
 
                                                                                                                   /^^^\
                                                                                                                  / . . \ 
@@ -48,7 +48,7 @@ words are ignored in Markdown Extra.
 
 > > > > > > > seven
 
-> > > > > > > > eight
+>  >       > > > > > > eight
 
 > > > > > > > > > nine
 
@@ -104,9 +104,13 @@ for things like poems
 ### Horizontal rules
 
 + Rules with no content are just omitted.
+
 ****
+
 ****
+
 ****
+
 * * * *
 Four stars: `* * * *`
 
@@ -129,8 +133,8 @@ block.
 |  Cell  |  Cell  |   $20  |
 
 
-Header         | Column Left   | Column Center    | Column Right
--------------- | :-----------  | :------------:     | -------------:
+**Header**     | Column Left   | Column Center    | Column Right
+-------------- | :-----------  | :------------:   | ------------:
 row            | entry one     | entry two        | entry three
 row            | entry one     | entry two        | entry three
 row            | entry one     | entry two        | entry three
