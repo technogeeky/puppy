@@ -13,13 +13,13 @@
                                                                                                                   |    \
                                                                                                                  .||(__V
 
-# Header 1 #
+# Header 1 {#top}
 ## Header 2 ##
-### Header 3 ###             (Hashes on right are optional)
+### Header 3 ###
 #### Header 4 ####
 ##### Header 5 #####
+###### Header 6 ######
 
-## Markdown plus h2 with a custom ID ##         {#id-goes-here}
 [Link back to H2](#id-goes-here)
 
 This is a paragraph, which is text surrounded by whitespace. Paragraphs can be on one 
@@ -33,10 +33,34 @@ feeling-lucky), a [wiki: test] link to a Wikipedia page, and a link to
 Now some inline markup like _italics_,  **bold**, and `code()`. Note that underscores in 
 words are ignored in Markdown Extra.
 
-![picture alt](/images/photo.jpeg "Title is optional")     
 
 > Blockquotes are like quoted text in email replies
->> And, they can be nested
+> > and they can be nested
+> > > three levels deep
+> > > > four
+> > > > > five
+> > > > > > six
+> > > > > > > seven
+> > > > > > > > eight
+> > > > > > > > > nine
+> > > > > > > > > > ten
+> but they can't have content    > with multiple blockquotes
+
+* lists start with *, +, or -
+*  and they can have one
+*   two
+*    three
+*     four
+*      five
+*       six extra spaces
+* they can also have
+* hanging indents   
+like this one
+
+HTML support:
+
+   <p> ``<p>`` is not supported
+
 
 * Bullet lists are easy too
 - Another one
@@ -52,14 +76,14 @@ And now some code:
     which(is_easy) to_remember();
 
 ~~~
-
-// Markdown extra adds un-indented code blocks too
+You can start code blocks with `~~~`.
 
 if (this_is_more_code == true && !indented) {
     // tild wrapped code blocks, also not indented
 }
 
 ~~~
+
 
 Text with  
 two trailing spaces  
@@ -69,10 +93,18 @@ for things like poems
 
 ### Horizontal rules
 
-* * * *
++ Rules with no content are just omitted.
 ****
+****
+****
+* * * *
+Four stars: `* * * *`
+
+****
+
 --------------------------
 
+You can [link to other locations]{#top}
 
 <div class="custom-class" markdown="1">
 This is a div wrapping some Markdown plus.  Without the DIV attribute, it ignores the 
@@ -86,21 +118,18 @@ block.
 |  Cell  |  Cell  |   $10  |
 |  Cell  |  Cell  |   $20  |
 
+
+Header         | Column Left   | Column Center    | Column Right
+-------------- | :-----------  | ------------     | -------------:
+row            | entry one     | entry two        | entry three
+row            | entry one     | entry two        | entry three
+row            | entry one     | entry two        | entry three
+row            | entry one     | entry two        | entry three
+row            | entry one     | entry two        | entry three
+row            | entry one     | entry two        | entry three
+row            | entry one     | entry two        | entry three
+
 * Outer pipes on tables are optional
 * Colon used for alignment (right versus left)
 
-## Markdown plus definition lists ##
-
-Bottled water
-: $ 1.25
-: $ 1.55 (Large)
-
-Milk
-Pop
-: $ 1.75
-
-* Multiple definitions and terms are possible
-* Definitions can include multiple paragraphs too
-
-*[ABBR]: Markdown plus abbreviations (produces an <abbr> tag)
 
