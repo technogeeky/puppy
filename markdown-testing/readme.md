@@ -35,15 +35,25 @@ words are ignored in Markdown Extra.
 
 
 > Blockquotes are like quoted text in email replies
+
 > > and they can be nested
+
 > > > three levels deep
+
 > > > > four
+
 > > > > > five
+
 > > > > > > six
+
 > > > > > > > seven
+
 > > > > > > > > eight
+
 > > > > > > > > > nine
+
 > > > > > > > > > > ten
+
 > but they can't have content    > with multiple blockquotes
 
 * lists start with *, +, or -
@@ -120,7 +130,7 @@ block.
 
 
 Header         | Column Left   | Column Center    | Column Right
--------------- | :-----------  | ------------     | -------------:
+-------------- | :-----------  | :------------:     | -------------:
 row            | entry one     | entry two        | entry three
 row            | entry one     | entry two        | entry three
 row            | entry one     | entry two        | entry three
