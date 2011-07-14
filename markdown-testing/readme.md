@@ -58,11 +58,7 @@ This can be used to create some interesting headers:
 
 > > > > > > > > > > ------------------------------------------------------------------------------------------------------
                                                                                                                    SECTION
-> > > > > > > > > > ------------------------------------------------------------------------------------------------------
 
-
-
-> but they can't have content    > with multiple blockquotes
 
 * lists start with *, +, or -
 *  and they can have one
