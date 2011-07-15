@@ -183,7 +183,6 @@ row            | entry one     | entry two        | entry three
 * Colon used for alignment (right versus left)
 
 
-|                    |         |           |                                         |                                         |
 | Name               |  Alias  |  Type     |  Desc                                   |  Values                                 |
 | ------------------ | ------- | --------- | --------------------------------------- | --------------------------------------- |
 | --backtrace        |  -b     |  boolean  |  Prints full backtrace                  |                                         |
@@ -201,5 +200,4 @@ row            | entry one     | entry two        | entry three
 | --unload           |  -u     |  string   |  Acts as a regular expression to un...  |                                         |
 | --verbose          |  -v     |  boolean  |  Verbose description of loading lib...  |                                         |
 | --version          |  -V     |  boolean  |  Prints the current version             |                                         |
-|                    |         |           |                                         |                                         |
 
