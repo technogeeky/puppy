@@ -203,3 +203,23 @@ row            | entry one     | entry two        | entry three
 | --version         | -V    | boolean | Prints the current version            |                                        |
 +-------------------+-------+---------+---------------------------------------+----------------------------------------+
 
+|-------------------|-------|---------|---------------------------------------|----------------------------------------|
+| Name              | Alias | Type    | Desc                                  | Values                                 |
+|-------------------|-------|---------|---------------------------------------|----------------------------------------|
+| --backtrace       | -b    | boolean | Prints full backtrace                 |                                        |
+| --console         | -c    | boolean | Drops into irb with default and ex... |                                        |
+| --debug           | -d    | boolean | Prints debug info for boson           |                                        |
+| --execute         | -e    | string  | Executes given arguments as a one ... |                                        |
+| --help            | -h    | boolean | Displays this help message or a co... |                                        |
+| --index           | -i    | array   | Libraries to index. Libraries must... | core/array,core/class,core/date,cor... |
+| --load            | -l    | array   | A comma delimited array of librari... | core/array,core/class,core/date,cor... |
+| --load_path       | -I    | string  | Add to front of $LOAD_PATH            |                                        |
+| --option_commands | -o    | boolean | Toggles on all commands to be defi... |                                        |
+| --pager_toggle    | -p    | boolean | Toggles Hirb's pager                  |                                        |
+| --render          | -r    | boolean | Renders a Hirb view from result of... |                                        |
+| --ruby_debug      | -D    | boolean | Sets $DEBUG                           |                                        |
+| --unload          | -u    | string  | Acts as a regular expression to un... |                                        |
+| --verbose         | -v    | boolean | Verbose description of loading lib... |                                        |
+| --version         | -V    | boolean | Prints the current version            |                                        |
+|-------------------|-------|---------|---------------------------------------|----------------------------------------|
+
