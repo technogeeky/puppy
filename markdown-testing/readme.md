@@ -182,9 +182,8 @@ row            | entry one     | entry two        | entry three
 * Outer pipes on tables are optional
 * Colon used for alignment (right versus left)
 
-
 | Name               |  Alias  |  Type     |  Desc                                   |  Values                                 |
-| ------------------ | ------- | --------- | --------------------------------------- | --------------------------------------- |
+|------------------- | ------- | --------- | --------------------------------------- | ----------------------------------------|
 | --backtrace        |  -b     |  boolean  |  Prints full backtrace                  |                                         |
 | --console          |  -c     |  boolean  |  Drops into irb with default and ex...  |                                         |
 | --debug            |  -d     |  boolean  |  Prints debug info for boson            |                                         |
