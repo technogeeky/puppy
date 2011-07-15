@@ -13,3 +13,9 @@
 [submodule ".riving/d3"]
 	path = .riving/d3
 	url = https://github.com/mbostock/d3
+[submodule ".riving/hirb"]
+	path = .riving/hirb
+	url = https://github.com/cldwalker/hirb
+[submodule ".riving/puppet-module-tool"]
+	path = .riving/puppet-module-tool
+	url = https://github.com/puppetlabs/puppet-module-tool
