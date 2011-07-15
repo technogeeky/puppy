@@ -183,6 +183,7 @@ row            | entry one     | entry two        | entry three
 * Colon used for alignment (right versus left)
 
 
+| ------------------ | ------- | --------- | --------------------------------------- | --------------------------------------- |
 | Name               |  Alias  |  Type     |  Desc                                   |  Values                                 |
 | ------------------ | ------- | --------- | --------------------------------------- | --------------------------------------- |
 | --backtrace        |  -b     |  boolean  |  Prints full backtrace                  |                                         |
