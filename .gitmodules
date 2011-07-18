@@ -19,3 +19,15 @@
 [submodule ".riving/puppet-module-tool"]
 	path = .riving/puppet-module-tool
 	url = https://github.com/puppetlabs/puppet-module-tool
+[submodule ".riving/em-websocket"]
+	path = .riving/em-websocket
+	url = https://github.com/igrigorik/em-websocket
+[submodule ".riving/puppet"]
+	path = .riving/puppet
+	url = https://github.com/technogeeky/puppet
+[submodule ".riving/facter"]
+	path = .riving/facter
+	url = https://github.com/technogeeky/facter
+[submodule ".riving/mym"]
+	path = .riving/mym
+	url = https://github.com/liehann/maybeyoumeant
