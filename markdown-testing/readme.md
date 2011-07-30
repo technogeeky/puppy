@@ -12,10 +12,10 @@
                                                                                                                   / - \
                                                                                                                   |    \
                                                                                                                  .||(__V
-| *Header* | Header | Right  |
-| ------   | ------ | -----: |
-|  Cell    |  Cell  |   $10  |
-|  Cell    |  Cell  |   $20  |
+>    >    >    >    >    > | *Header* | Header | Right  |
+>    >    >    >    >    > | ------   | ------ | -----: |
+>    >    >    >    >    > |  Cell    |  Cell  |   $10  |
+>    >    >    >    >    > |  Cell    |  Cell  |   $20  |
 
 
 **Header**     | Column Left   | Column Center    | Column Right
