@@ -17,7 +17,7 @@
 >    >    >    >    >    > |    Cell    |    Cell    |   $10   | lincoln     |
 >    >    >    >    >    > |    Cell    |    Cell    |   $20   | clinton     |
 >    >    >    >    >    > |    Cell    |    Cell    |  combined these two  ||
->    >    >    >    >    > |    Cell    |      combined these three        |||
+>    >    >    >    >    > |    Cell    ||      combined these three        ||
 
 . 
 
