@@ -22,8 +22,8 @@
 > + test
 > + another
 > * directory
-> > > * subdir
-> > > * second
+> > * subdir
+> > * second
 .
 
 
