@@ -28,6 +28,14 @@
 > > * second
 
 
+> > > | ... | ... | ... | ... | ... | ... |
+> > > | --: | -:- | :-- | --- | --- | --- |
+> > > |||| etc
+> > > |||| etc | puppet
+> > > |||| etc | puppet | manifests
+> > > |||| proc
+> > > |||| 
+
 **Header**     | Column Left   | Column Center    | Column Right
 -------------- | :-----------  | :------------:   | ------------:
 row            | entry one     | entry two        | entry three
