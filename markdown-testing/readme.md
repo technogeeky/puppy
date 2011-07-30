@@ -12,11 +12,17 @@
                                                                                                                   / - \
                                                                                                                   |    \
                                                                                                                  .||(__V
->    >    >    >    >    > ----
->    >    >    >    >    >    | *Header* | Header | Right  |
->    >    >    >    >    >    | ------   | ------ | -----: |
->    >    >    >    >    >    |  Cell    |  Cell  |   $10  |
->    >    >    >    >    >    |  Cell    |  Cell  |   $20  |
+>    >    >    >    >    > | *Header* | Header | Right  |
+>    >    >    >    >    > | ------   | ------ | -----: |
+>    >    >    >    >    > |  Cell    |  Cell  |   $10  |
+>    >    >    >    >    > |  Cell    |  Cell  |   $20  |
+
+>     + test
+>     + another
+>     * directory
+>     >               > + contents
+>     >               > + and more contents
+>     >               > + yet more contents
 
 
 **Header**     | Column Left   | Column Center    | Column Right
@@ -35,7 +41,7 @@ row            | entry one     | entry two        | entry three
 def puppet_check(options={})
      require 'puppet/parser'
        Dir['**/*.pp'].each do |file|
-            puts file if options[:verbose]
+             puts file if options[:verbose]
             begin
                Puppet[:manifest] = file
                Puppet::Node::Environment.new(Puppet[:environment]).known_resource_types.clear
