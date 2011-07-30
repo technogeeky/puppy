@@ -18,12 +18,12 @@
 >    >    >    >    >    > |    Cell    |    Cell    |   $20  |
 
 . 
+
 > + test
 > + another
 > * directory
->     >     > + contents
->     >     > + and more contents
->     >     > + yet more contents
+
+.
 
 
 **Header**     | Column Left   | Column Center    | Column Right
