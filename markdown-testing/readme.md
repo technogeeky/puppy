@@ -12,17 +12,18 @@
                                                                                                                   / - \
                                                                                                                   |    \
                                                                                                                  .||(__V
->    >    >    >    >    > | *Header* | Header | Right  |
->    >    >    >    >    > | ------   | ------ | -----: |
->    >    >    >    >    > |  Cell    |  Cell  |   $10  |
->    >    >    >    >    > |  Cell    |  Cell  |   $20  |
+>    >    >    >    >    > | **Header** | **Header** | Right  |
+>    >    >    >    >    > |   ------   | ---------- | -----: |
+>    >    >    >    >    > |    Cell    |    Cell    |   $10  |
+>    >    >    >    >    > |    Cell    |    Cell    |   $20  |
 
->     + test
->     + another
->     * directory
->     >               > + contents
->     >               > + and more contents
->     >               > + yet more contents
+. 
+> + test
+> + another
+> * directory
+>     >     > + contents
+>     >     > + and more contents
+>     >     > + yet more contents
 
 
 **Header**     | Column Left   | Column Center    | Column Right
