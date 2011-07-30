@@ -12,10 +12,12 @@
                                                                                                                   / - \
                                                                                                                   |    \
                                                                                                                  .||(__V
->    >    >    >    >    > | **Header** | **Header** | Right  |
->    >    >    >    >    > |   ------   | ---------- | -----: |
->    >    >    >    >    > |    Cell    |    Cell    |   $10  |
->    >    >    >    >    > |    Cell    |    Cell    |   $20  |
+>    >    >    >    >    > | **Header** | **Left C** | Center  | **Right C** |
+>    >    >    >    >    > |   ------   | ---------- | :-----: | ----------- |
+>    >    >    >    >    > |    Cell    |    Cell    |   $10   | lincoln     |
+>    >    >    >    >    > |    Cell    |    Cell    |   $20   | clinton     |
+>    >    >    >    >    > |    Cell    |    Cell    |  combined these two  ||
+>    >    >    >    >    > |    Cell    |      combined these three        |||
 
 . 
 
@@ -24,7 +26,6 @@
 > * directory
 > > * subdir
 > > * second
-.
 
 
 **Header**     | Column Left   | Column Center    | Column Right
