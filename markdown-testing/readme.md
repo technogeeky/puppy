@@ -31,7 +31,7 @@
 
 ** Installed?**  | _vimshell_ | _vimproc_ | _quickrun_ | _repl.vim_ | **Slowness?**
  ---- | ---- | ---- | ---- | ---- | ----
-everything | yes |||| yes
+everything | yes | yes | yes | yes | yes
 fresh | no |||| no
 vimproc+ | no | yes ||| no
 vimshell+ | yes | yes ||| no
