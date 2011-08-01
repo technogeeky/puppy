@@ -29,6 +29,16 @@
 
 .
 
+** Installed?**  | _vimshell_ | _vimproc_ | _quickrun_ | _repl.vim_ | **Slowness?**
+ ---- | ---- | ---- | ---- | ---- | ----
+everything | yes |||| yes
+fresh | no |||| no
+vimproc+ | no | yes ||| no
+vimshell+ | yes | yes ||| no
+quickrun+ | yes | yes | yes | no | no
+repl.vim+ | yes | yes | yes | yes | yes
+
+.
 
 > > > | ... | ... | ... | ... | ... | ... |
 > > > | --: | -:- | :-- | --- | --- | --- |
