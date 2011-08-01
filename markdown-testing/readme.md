@@ -29,7 +29,7 @@
 
 .
 
-** Installed?**  | _vimshell_ | _vimproc_ | _quickrun_ | _repl.vim_ | **Slowness?**
+**Installed?**  | _vimshell_ | _vimproc_ | _quickrun_ | _repl.vim_ | **Slowness?**
  ---- | ---- | ---- | ---- | ---- | ----
 everything | yes | yes | yes | yes | yes
 fresh | no | no | no | no | no
